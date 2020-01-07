@@ -1,0 +1,66 @@
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha12- Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\C# - Exercicios\Ficha12- Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3 - Consulta\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 5\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 12\Ex 1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
