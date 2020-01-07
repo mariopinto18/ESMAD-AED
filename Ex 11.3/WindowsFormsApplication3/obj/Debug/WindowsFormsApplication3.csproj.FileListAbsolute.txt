@@ -1,0 +1,49 @@
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Ficha 12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
