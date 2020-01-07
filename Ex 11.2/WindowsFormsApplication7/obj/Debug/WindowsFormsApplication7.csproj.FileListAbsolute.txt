@@ -1,0 +1,58 @@
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Utilizador\Documents\Visual Studio 2015\Projects\ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\ListBox com ficheiro - Ficha 13\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojAssemblyReference.cache
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+E:\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Ficha 9.2 - ListBox com ficheiro\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\mario\Dropbox\AED\2019-20\Ex  C#\Ficha 11\Ex 2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
