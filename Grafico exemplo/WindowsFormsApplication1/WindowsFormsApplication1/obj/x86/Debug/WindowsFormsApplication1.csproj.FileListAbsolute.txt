@@ -1,0 +1,105 @@
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Exercicios C#\Grafico ex\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Exercicios C#\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Utilizador\Dropbox\Exercicios C#\aa\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Utilizador\Dropbox\Exercicios C#\aa\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Utilizador\Dropbox\Exercicios C#\aa\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\Exercicios C#\aa\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Utilizador\Dropbox\Exercicios C#\aa\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Utilizador\Dropbox\Exercicios C#\aa\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Utilizador\Dropbox\Exercicios C#\aa\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Dropbox\Exercicios C#\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Utilizador\Dropbox\Exercicios C#\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Utilizador\Dropbox\Exercicios C#\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\Exercicios C#\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Utilizador\Dropbox\Exercicios C#\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Utilizador\Dropbox\Exercicios C#\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Utilizador\Dropbox\Exercicios C#\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Utilizador\Dropbox\AED\Aulas PL\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Utilizador\Dropbox\AED\2016-17\Aulas PL\Exemplos no Moodle\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Utilizador\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\mario\Dropbox\AED\2017-18\Exemplos\Graficos - exemplo\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\mario\Dropbox\AED\C# - Exercicios\Grafico exemplo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
